@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Mukta, sans-serif ;
+}
+:root {
+    --background: #141416;
+    --white: #f5f5f5;
+    --purple: #633BBC;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: #141416;
+    color: #f5f5f5;
+    padding-bottom: 4px;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
